@@ -14,7 +14,7 @@ import { Navigation } from './src/infrastructure/navigation';
 import { theme } from './src/infrastructure/theme';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAITNTiXVPTDOK9tLAAB0yQgd1B2KOUzr8',
+  apiKey: '#enterpublicAPIKey',
   authDomain: 'mealstogo-8e420.firebaseapp.com',
   projectId: 'mealstogo-8e420',
   storageBucket: 'mealstogo-8e420.appspot.com',
